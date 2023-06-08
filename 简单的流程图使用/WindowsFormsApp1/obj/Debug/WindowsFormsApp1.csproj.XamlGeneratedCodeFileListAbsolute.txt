@@ -1,0 +1,4 @@
+obj\Debug\_WindowsFormsApp1.g.cs
+obj\Debug\Activity1.g.cs
+obj\Debug\WindowsFormsApp1_Activity1_BeforeInitializeComponentHelper.cs
+C:\Users\30765\Desktop\新建文件夹 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1_Activity1_CompiledExpressionRoot.cs
